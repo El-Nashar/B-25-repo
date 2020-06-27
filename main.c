@@ -4,7 +4,7 @@ void main ()
 {
 	
 
-	int y=500;
+	int y=5;
 	
 	
 }
